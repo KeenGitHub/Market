@@ -1,2 +1,0 @@
-Catwork: HL2RP for 40$.
-HL2RP roleplaying schema for Catwork. HL2RP brings to life the extensive and unique universe of Half-Life 2, and opens up a world of possibilities and players take up the lives of oppressed citizens and ruthless Combine forces. This is the original HL2RP gamemode for Garry's Mod, running on the Catwork framework
