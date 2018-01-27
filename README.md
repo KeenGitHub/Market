@@ -1,9 +1,8 @@
 <h1 id="welcome-to-market">Welcome to Market</h1>
 <h1 id="Carbon.">Carbon.</h1>
 <p><img src="http://cdn.teamandroid.com/wp-content/uploads/2013/12/XzinYIT1.png" alt="enter image description here">
-
-<strong>
-  Новый фреймворк, созданный с учетом ошибок и проблем множества фреймворков. Carbon в следствии этого является наиболее перспективным продуктом для разработки сириус сервера на данный момент.</strong></p>
+</p><strong>
+</strong><p>Новый фреймворк, созданный с учетом ошибок и проблем множества фреймворков. Carbon в следствии этого является наиболее перспективным продуктом для разработки сириус сервера на данный момент.</p>
 <h2 id="Carbonhl2rp---402500ru.">Carbon:HL2RP - 40$|2500RU.</h2>
 <p><img src="https://steamuserimages-a.akamaihd.net/ugc/853851340196066559/DEBDDB66B09930A1799BE0512EE53F03B566A09A/" alt="enter image description here"></p>
 <p>HL2RP roleplaying schema for Carbon. HL2RP brings to life the extensive and unique universe of Half-Life 2, and opens up a world of possibilities and players take up the lives of oppressed citizens and ruthless Combine forces. This is the original HL2RP gamemode for Garry’s Mod, running on the Carbon framework</p>
@@ -28,4 +27,5 @@ Created and modified on the basis of C.W 2.0.</p>
 <p>Adaptation and updating of any addon or plugin to your server, regardless of the framework.</p>
 <p>Адаптация и необходимое обновление любого аддона или плагина для вашего сервера независимо от фреймворка.</p>
 <hr>
+
 
